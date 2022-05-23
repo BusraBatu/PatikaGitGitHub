@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clonehttps://github.com/busrabatu/PatikaDevGitGithub.git
+git clonehttps://github.com/BusraBatu/PatikaDevGitGithub.git
 ```
 
 ## Usage
